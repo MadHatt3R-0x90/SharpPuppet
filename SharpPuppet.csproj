@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{258A87A3-DA6E-40A6-A762-95A4A1B25B1D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>rdki</RootNamespace>
-    <AssemblyName>rdki</AssemblyName>
+    <RootNamespace>SharpPuppet</RootNamespace>
+    <AssemblyName>SharpPuppet</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
